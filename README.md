@@ -1,2 +1,2 @@
 # TensorFlow_Code
-Code of some machine learning algorithms using TensorFlow
+Code for some machine learning algorithms using TensorFlow
